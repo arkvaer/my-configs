@@ -23,7 +23,7 @@ export ftp_proxy=http://127.0.0.1:1080;
 
 git config --global user.name "waver"
 git config --global user.email "jokerwaver@gmail.com"
-git config --global https.proxy http://127.0.0.1:1080
+git config --global http.proxy http://127.0.0.1:1080
 git config --global https.proxy https://127.0.0.1:1080
 
 ## 具体应用场景
